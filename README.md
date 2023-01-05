@@ -7,12 +7,12 @@ Dependencies: libcirl
 ## Linux
 - git clone https://github.com/Lomasterrrr/FindYoutube.git
 - cd FindYoutube
-- g++ -lcurl -fpermissive main.cpp
+- g++ -lcurl main.cpp
 - ./a.out
 
 ## Windows
 - download git
 - unzip
 - cd FindYoutube
-- g++ -lcurl -fpermissive main.cpp
+- g++ -lcurl main.cpp
 - open exe
